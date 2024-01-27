@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/carlos-rojas-portafolio.io/static/css/main.bc2103d5.css",
+    "main.js": "/carlos-rojas-portafolio.io/static/js/main.75ca9b1c.js",
+    "static/media/carlos-uno.png": "/carlos-rojas-portafolio.io/static/media/carlos-uno.b8a9890fb6666f1ea719.png",
+    "static/media/login.png": "/carlos-rojas-portafolio.io/static/media/login.c88a8a68633ebfe630d3.png",
+    "static/media/api.png": "/carlos-rojas-portafolio.io/static/media/api.5fc3a059ddfb9958a50d.png",
+    "static/media/cafe.png": "/carlos-rojas-portafolio.io/static/media/cafe.73c04e3683a3e6498239.png",
+    "static/media/oracle.png": "/carlos-rojas-portafolio.io/static/media/oracle.347227d83929d4e21efb.png",
+    "static/media/nodejs.png": "/carlos-rojas-portafolio.io/static/media/nodejs.abfaef34ea49d0c7cd3c.png",
+    "static/media/db (1).jpg": "/carlos-rojas-portafolio.io/static/media/db (1).34d6e02de2a8ab41816c.jpg",
+    "static/media/react-uno.png": "/carlos-rojas-portafolio.io/static/media/react-uno.ab02417fc63a04ade2ab.png",
+    "static/media/javascript.png": "/carlos-rojas-portafolio.io/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/nextjs.png": "/carlos-rojas-portafolio.io/static/media/nextjs.644e86ec6ae8d96c7ebd.png",
+    "static/media/proyecto_alura.png": "/carlos-rojas-portafolio.io/static/media/proyecto_alura.6ff858a66cf1ef0d81f9.png",
+    "static/media/html.png": "/carlos-rojas-portafolio.io/static/media/html.397540dec969b31fd37c.png",
+    "static/media/css.png": "/carlos-rojas-portafolio.io/static/media/css.2c665fabd4e233fa63ca.png",
+    "index.html": "/carlos-rojas-portafolio.io/index.html",
+    "main.bc2103d5.css.map": "/carlos-rojas-portafolio.io/static/css/main.bc2103d5.css.map",
+    "main.75ca9b1c.js.map": "/carlos-rojas-portafolio.io/static/js/main.75ca9b1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc2103d5.css",
+    "static/js/main.75ca9b1c.js"
+  ]
+}
