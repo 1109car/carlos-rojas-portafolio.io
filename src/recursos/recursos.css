@@ -1,0 +1,58 @@
+.contenedor_recursos{
+    display: flex;
+    background-color:#734F2F;
+    width: 100%;
+    height: 90vh;
+}
+.presentacion_primsecc{
+    display: grid;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 5.5%;
+    gap: 1.5%;
+    grid-template-rows: 18% 30% 30%;
+    padding: 3%;
+    width: 60%;
+    height: 80%;
+}
+.titulo_present{
+    display: grid;
+    font-family: sans-serif;  
+    font-size: 2rem;
+    color: #fbf2e8;
+    font-weight: 900;
+}
+.art_present{
+    display: flex;
+    justify-content: start;
+    margin-top: 5%;
+    margin-right: 5%;
+    width: 30%;
+    height: 80%;
+}
+.img_carlos{
+    padding-left: 7%;
+    max-width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.parrafo_recur{
+    color: #fbf2e8;
+    font-family:cursive;
+    font-weight: 700;
+}
+.figura_recur{
+    display: flex;
+   border-radius: 20px;
+   justify-content: center;
+   align-items: center;
+   margin-top: 2%;
+   align-content: center;
+    background-color: #a56c3a;
+}
+.img_figure{
+   width: 10%;
+   height: 50%;
+   margin-left: 3%;
+   object-fit: contain;
+}

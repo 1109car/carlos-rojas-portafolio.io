@@ -1,0 +1,35 @@
+/* @media screen and (max-width:767px){
+    .contenedor_recursos{
+      display: flex;
+      justify-content: center;
+      width: 100%;
+    }
+    .presentacion_primsecc{
+        width: 90%;
+        margin: 0;
+    }
+    .titulo_present{
+        padding-top: 20%;
+    }
+    .parrafo_recur{
+        padding-top: 16%;
+    }
+    .art_present{
+       position: absolute;
+       bottom: -21%;
+       width: 50%;
+       border-radius: 12px;
+    }
+    .img_carlos{
+        
+        border-radius: 50px;
+    }
+    
+    .figura_recur{
+        height:60% ;
+        margin-top: 15%;
+    }
+    .figura_recur{
+        margin: 0;
+    }
+  } */
