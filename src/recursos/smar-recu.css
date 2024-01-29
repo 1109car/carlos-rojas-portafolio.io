@@ -1,5 +1,32 @@
-/* @media screen and (max-width:767px){
+@media screen and (max-width:767px){
     .contenedor_recursos{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color:#734F2F;
+        width: 100%;
+        height: 90vh;
+    }
+    .figura_recur{
+        height: 15%;
+    }
+    .presentacion_primsecc{
+        display: flex;
+        width: 80%;
+        flex-direction: column;
+    }
+    .parrafo_recur{
+        margin-bottom: 15%;
+    }
+   .art_present{
+    display: none;
+   }
+    .titulo_present{
+        width: 100%;
+        margin-bottom: 10%;
+    } 
+}
+    /* .contenedor_recursos{
       display: flex;
       justify-content: center;
       width: 100%;

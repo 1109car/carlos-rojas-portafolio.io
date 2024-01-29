@@ -20,7 +20,8 @@
     justify-content: center;
     flex-wrap: wrap;
     width: 90%;
-    height: 82vh;
+    min-height: 82vh;
+    padding-bottom: 2%;
     gap: 1.4rem;
 }
 .card_cont{

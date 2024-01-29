@@ -1,5 +1,10 @@
-/* @media screen and (max-width:767px){
+@media screen and (max-width:768px){
     .cont_img_oracle{
+        position: relative;
+        right: 10%;
+    }
+}
+    /* .cont_img_oracle{
         display: grid;
         position: relative;
         right: 15%;

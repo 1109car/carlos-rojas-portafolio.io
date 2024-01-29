@@ -1,4 +1,5 @@
 import "./contacto.css"
+import "./movicontac.css"
 
 export default function ContContact() {
   return (
